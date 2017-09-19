@@ -1,0 +1,14 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '8.0'
+target 'NewCommunity' do
+
+pod 'AFNetworking', '~> 3.1.0'
+pod 'MJRefresh', '~> 3.1.12'
+pod 'SDCycleScrollView', '~> 1.73'
+pod 'SVProgressHUD', '~> 2.2.1'
+pod 'SDAutoLayout', '~> 2.2.0'
+pod 'QMUI_iOS', '~> 1.1.0'
+pod 'IQKeyboardManager', '~> 4.0.7'
+pod 'MBProgressHUD', '~> 1.0.0'
+end

@@ -1,0 +1,1 @@
+../../../QMUI_iOS/QMUIKit/UIComponents/QMUIImagePreviewView.h
