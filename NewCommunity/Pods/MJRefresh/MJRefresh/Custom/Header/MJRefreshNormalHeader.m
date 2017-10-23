@@ -50,7 +50,8 @@
 - (void)prepare
 {
     [super prepare];
-    
+    // 隐藏时间
+    self.lastUpdatedTimeLabel.hidden = YES;
     self.activityIndicatorViewStyle = UIActivityIndicatorViewStyleGray;
 }
 

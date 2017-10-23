@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9329F23A1F716216009E59CC"
+               BlueprintIdentifier = "938588051F71F33F00E43596"
                BuildableName = "NewCommunity.app"
                BlueprintName = "NewCommunity"
                ReferencedContainer = "container:NewCommunity.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9329F2531F716216009E59CC"
+               BlueprintIdentifier = "9385881E1F71F34000E43596"
                BuildableName = "NewCommunityTests.xctest"
                BlueprintName = "NewCommunityTests"
                ReferencedContainer = "container:NewCommunity.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9329F25E1F716216009E59CC"
+               BlueprintIdentifier = "938588291F71F34000E43596"
                BuildableName = "NewCommunityUITests.xctest"
                BlueprintName = "NewCommunityUITests"
                ReferencedContainer = "container:NewCommunity.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9329F23A1F716216009E59CC"
+            BlueprintIdentifier = "938588051F71F33F00E43596"
             BuildableName = "NewCommunity.app"
             BlueprintName = "NewCommunity"
             ReferencedContainer = "container:NewCommunity.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9329F23A1F716216009E59CC"
+            BlueprintIdentifier = "938588051F71F33F00E43596"
             BuildableName = "NewCommunity.app"
             BlueprintName = "NewCommunity"
             ReferencedContainer = "container:NewCommunity.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9329F23A1F716216009E59CC"
+            BlueprintIdentifier = "938588051F71F33F00E43596"
             BuildableName = "NewCommunity.app"
             BlueprintName = "NewCommunity"
             ReferencedContainer = "container:NewCommunity.xcodeproj">

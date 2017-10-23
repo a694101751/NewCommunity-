@@ -2,7 +2,7 @@
 //  NewCommunityUITests.m
 //  NewCommunityUITests
 //
-//  Created by Aaron on 2017/9/19.
+//  Created by Aaron on 2017/9/20.
 //  Copyright © 2017年 ZP. All rights reserved.
 //
 

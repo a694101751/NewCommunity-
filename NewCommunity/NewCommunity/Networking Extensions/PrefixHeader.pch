@@ -1,0 +1,41 @@
+//
+//  PrefixHeader.pch
+//  NewCommunity
+//
+//  Created by Aaron on 2017/9/19.
+//  Copyright © 2017年 ZP. All rights reserved.
+//
+
+#import <MBProgressHUD.h>
+#import <SDAutoLayout.h>
+#import <MJRefresh.h>
+#import <IQKeyboardManager.h>
+#import <PYPhotoBrowser.h>
+#import <SDCycleScrollView.h>
+#import <QMUIKit.h>
+#import <IQActionSheetPickerView.h>
+#import <UIImageView+WebCache.h>
+#import <UIButton+WebCache.h>
+#import "AFAppDotNetAPIClient.h"
+#import "NSString+Json.h"
+#import "Config.h"
+#import "UIView+Toast.h"
+#import "UIView+EXT.h"
+#import "User.h"
+#import "NewCommunityBLL.h"
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//测式
+//#define BASE_URL @"http://172.16.30.55:8080/"
+//正式
+#define BASE_URL @"http://47.95.216.28/"
+
+#define shareUrl @"http://q.eqxiu.com/s/hMKpoHFX"
+
+//#define shareUrl @"https://itunes.apple.com/cn/app/jie-zou-da-shi/id1295570214?mt=8"
+
+
+
+#endif /* PrefixHeader_pch */
